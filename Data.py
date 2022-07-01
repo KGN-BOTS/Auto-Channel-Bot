@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-By @CyniteBots
+By @KGN_BOTS
     """
 
     # Home Button
@@ -20,12 +20,12 @@ By @CyniteBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/CyniteOfficial")],
+        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/KGN_OFFICIAL")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ❔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/CyniteBots")],
+        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/KGN_BOTS")],
     ]
 
     # Help Message
@@ -49,13 +49,13 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @CyniteBots
+A telegram channel automation bot by @KGN_BOTS
 
-Source Code : [Click Here](https://t.me/CyniteOfficial)
+Source Code : [Click Here](https://t.me/KGN_OFFICIAL)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @CyniteOfficial
+Developer : [ZAHID](https://t.me/KGN_OFFICIAL)
     """
