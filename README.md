@@ -1,8 +1,8 @@
-# Channel Automation Bot [@CyniteChannelBot](https://t.me/CyniteChannelBot)
+# Channel Automation Bot [@KGN_CHANNEL_MANAGER_BOT](https://t.me/KGN_CHANNEL_MANAGER_BOT)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/CyniteOfficial/Auto-Channel-Bot"><img src="https://telegra.ph/file/c54625bd6a4e08ffdb742.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/KGN-BOTS/Auto-Channel-Bot"><img src="https://telegra.ph/file/c54625bd6a4e08ffdb742.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
@@ -12,7 +12,7 @@ Telegram bot to automate and manage channels.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Channel-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zahidempire/Auto-Channel-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to automate and manage channels.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/CyniteOfficial/Auto-Channel-Bot
+   git clone https://github.com/KGN-BOTS/Auto-Channel-Bot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -71,15 +71,15 @@ Telegram bot to automate and manage channels.
 
 ## Support
 
-Channel :- [@CyniteBots](https://t.me/CyniteBots)
+Channel :- [@KGN_BOTS](https://t.me/KGN_BOTS)
 
-Contact Me :- [@Cyniteaofficial](https://t.me/Cyniteofficial)
+Contact Me :- [@KGN_OFFICIAL](https://t.me/KGN_OFFICIAL)
 
 ## :)
-CREDITS :- STARK BOTS
+CREDITS :- KGN-BOTS
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/CyniteOfficial/Auto-Channel-Bot)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/KGN-BOTS/Auto-Channel-Bot)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/CyniteOfficial/Auto-Channel-Bot)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/KGN-BOTS/Auto-Channel-Bot)
